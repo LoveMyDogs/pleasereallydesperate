@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Notes on Math Expressions and Strings",
+            "title": "Lists, Dictionaries, Iteration",
             "content": "Algorithms . Algorithms are when programming languages have a set of things to go through to accomplish tasks, this can be done by sequencing which is when an algorithm does things in one certain order, Selection when an algorithm can choose two different outcomes based off a decision in the algorithm, with iteration algorithms can also repeat if a condition is true. . Flowcharts can represent algorithms for planning things out. . Arithmetic Operations: Subtraction, Addition, Multiplication, Division, Remainder In the ap exam the language does arithmetic in PEMDAS . Variables: Can store a numerical value as an integer, mep Can assign a variable to another value Can store the result of an operation as a variable A procedural variable . The sequence of variables is important, as the order that things are in determines their outcome. . Tracking variables is often shown on ap exams, and being able to know how each changes and 1is approved is important. . Strings . Strings, a string is a collection of characters, it could be anything, numbers, letters, special ch aracters. As string is a collection of characters. len(string), c lower() to conver to lowercase concat is in pseudocode of ap exam, it puts strings together substring is pseudocode of the ap exam, (&quot;abcdefghijk&quot;, 2, 5) would print bcde (pseudocode starts at 1) . String concatenation combines w or more strings to create a new singt concat(&quot;Cookie&quot;, &quot;Monster&quot;)-? CookieMonster . concat(&quot;Mr.Mortenson is very handsome&quot; 1, 2) the system would return Mr (remember that pseudocode starts at 1) . Very handsome mr.mort is . Homework . Num 2 = 50%9 + 15 =20 Num 3 = 20 / 50 + (20*2)= 40.4 Num 4 = 40.4 + 50 / 5 - 10 = 40.4 Result = 40.4 - 2- = 20.4 . | Num 2 = 4 Num1 = 4 Num 3= 12 Result = 0 . | Value B = 14 Value A = 40 printed -&gt; 17 . | printed -&gt; straight brown short . | Strings, Problem 1: . Abrev= Mr.Mort . yoda = Very Handsome Mr.Mort is . Problem 2: I interpreted the len1 variables as being len(cookie)/2, vote1 = choclate vote 4 vote2 = rasin vote 225 votes = choclate vote 4 rasin vote 225 .",
-            "url": "https://vivianknee.github.io/t2p3t1/notebook/2022/11/29/notes-math-expr-strings.html",
-            "relUrl": "/notebook/2022/11/29/notes-math-expr-strings.html",
+            "url": "https://vivianknee.github.io/t2p3t1/posts/notesdone",
+            "relUrl": "/posts/notesdone",
             "date": " • Nov 29, 2022"
         }
         
